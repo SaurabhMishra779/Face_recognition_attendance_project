@@ -11,9 +11,9 @@ It uses 50 images for training and prediction.
 
 ![](images/a.png) 
 
-![](images/Screenshot from 2020-12-07 14-40-37.png)
+![](images/aa.png)
 
-![](images/Screenshot from 2020-12-07 14-40-42.png)
+![](images/s.png)
 
 
 
