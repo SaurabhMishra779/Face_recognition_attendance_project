@@ -10,6 +10,7 @@ It uses 50 images for training and prediction.
 ❮img src="images/Screenshot from 2020-12-07 14-38-04.png" width="100"❯
 
 ![](images/Screenshot from 2020-12-07 14-38-04.png)
+
 ![picture](images/Screenshot from 2020-12-07 14-38-04.png)
  
 
