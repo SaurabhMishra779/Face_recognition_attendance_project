@@ -7,7 +7,11 @@ We are Using Open CV for reading the image and for recognition of the face we us
 Later we will save the entry and exit time on the database along with the all the entry which is done at the time of taking the image and training.
 It uses 50 images for training and prediction.
 
+![](images/Screenshot from 2020-12-07 14-38-04.png)
 
+![](images/Screenshot from 2020-12-07 14-40-37.png)
+
+![](images/Screenshot from 2020-12-07 14-40-42.png)
 
 
 
