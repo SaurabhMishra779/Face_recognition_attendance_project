@@ -9,6 +9,6 @@ It uses 50 images for training and prediction.
 
 ❮img src="images/a.png"❯
 
-❮img src="images/a.png" width="100" ❯
+❮img src="images/a.png"width="100" ❯
 
 
